@@ -27,11 +27,4 @@ Built with **HTML, CSS, and JavaScript** featuring smooth scrolling, scroll-trig
 ## ▶️ Run Locally
 1. Clone the repo  
 2. Open `index.html` in a modern browser  
-3. (Optional) Use **VS Code + Live Server** for better performance  
-
----
-
-## 📸 Preview
-*(Insert screenshot of your project here)*  
-```md
-![Preview](images/preview.png)
+3. (Optional) Use **VS Code + Live Server** for better performance 
